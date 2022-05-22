@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibavSharp.Core", "LibavSharp.Core\LibavSharp.Core.csproj", "{278FEBAE-2AA4-4666-97C9-0FD0D338E470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibavSharp.Extensions", "LibavSharp.Extensions\LibavSharp.Extensions.csproj", "{A82216D5-FA15-4CBC-80D2-75CB46D5DE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResampleTranscode", "examples\ResampleTranscode\ResampleTranscode.csproj", "{A98058F6-3A1D-4735-8834-6FA1A5D47DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278FEBAE-2AA4-4666-97C9-0FD0D338E470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278FEBAE-2AA4-4666-97C9-0FD0D338E470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278FEBAE-2AA4-4666-97C9-0FD0D338E470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278FEBAE-2AA4-4666-97C9-0FD0D338E470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82216D5-FA15-4CBC-80D2-75CB46D5DE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82216D5-FA15-4CBC-80D2-75CB46D5DE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82216D5-FA15-4CBC-80D2-75CB46D5DE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82216D5-FA15-4CBC-80D2-75CB46D5DE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98058F6-3A1D-4735-8834-6FA1A5D47DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98058F6-3A1D-4735-8834-6FA1A5D47DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98058F6-3A1D-4735-8834-6FA1A5D47DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98058F6-3A1D-4735-8834-6FA1A5D47DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
